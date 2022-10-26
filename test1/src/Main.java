@@ -53,5 +53,24 @@ public class Main{ //class
 		double myNum6 = 19.99d;
 		System.out.println(myNum6);
 		
+		char myGrade = 'B';
+		System.out.println(myGrade);
+		
+		char myVar1 = 65, myVar2 = 66, myVar3 = 67;
+		System.out.println(myVar1);
+		System.out.println(myVar2);
+		System.out.println(myVar3);
+		
+		char myVar01 = 65, myVar02 = 66, myVar03 = 67;
+		System.out.println(myVar01);
+		System.out.println(myVar02);
+		System.out.println(myVar03);
+		
+		
+		
+		char myVar4 = 7;
+		System.out.println(myVar4);
+		
+		
 	}
 }
