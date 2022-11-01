@@ -86,7 +86,9 @@ public class Main{ //class
 	    System.out.println(txt1.toUpperCase());   // Outputs "HELLO WORLD"
 	    System.out.println(txt1.toLowerCase());   // Outputs "hello world"
 	    
-	    
+	    String firstName1 = "John";
+	    String lastName1 = "Doe";
+	    System.out.println(firstName1 + " " + lastName1);
 		
 		
 	}
